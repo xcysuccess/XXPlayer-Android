@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">自研XXPlayer</string>
+    <string name="home">首页</string>
+    <string name="music">音乐</string>
+    <string name="video">视频</string>
+    <string name="person">个人</string>
+
 </resources>

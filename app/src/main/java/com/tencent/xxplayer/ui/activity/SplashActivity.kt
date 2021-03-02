@@ -27,5 +27,6 @@ class SplashActivity : BaseActivity() {
     }
 
     override fun initListener() {
+
     }
 }
